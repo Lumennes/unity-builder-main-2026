@@ -45,7 +45,8 @@ jobs:
           # - local-docker
           - local
         projectPath:
-          - test-project
+          #- test-project
+          - urp6
         unityVersion:
           #- 2021.3.32f1
           #- 2022.3.13f1
